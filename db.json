@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "test post 1",
+      "teaser": 1,
+      "body": "test post 1 with long text content",
+      "published_at": "",
+      "average_note": "just test post",
+      "views": 100
+    }
+  ]
+}
